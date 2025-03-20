@@ -1,8 +1,10 @@
 #  📝 Generador de Test Teórico 
 
-Es una aplicación de escritorio desarrollada en **Java Swing** que permite cargar y modificar preguntas tipo test desde un archivo CSV de forma sencilla e intuitiva. Permite guardar el archivo modificado y comprimirlo en formato ZIP, listo para ser utilizado en un proyecto de Unity. Utiliza un **Csv** como bbdd para mostrar en cada una de las preguntas.
+Es una aplicación de escritorio desarrollada en **Java Swing** que permite seleccionar el tipo de simulador y cargar las preguntas correspondientes, además se pueden añadir y/o eliminar. 
+Permite guardar el archivo modificado en el **Csv** y comprimirlo en formato ZIP, listo para ser utilizado en un proyecto de Unity. 
+Utiliza un **Csv** como bbdd para mostrar cada una de las preguntas.
 
-##  Características
+## 🟢 Características
 
 ✅ **Interfaz gráfica amigable** con componentes Swing.
 
@@ -45,24 +47,24 @@ Es una aplicación de escritorio desarrollada en **Java Swing** que permite carg
 ##  🔧 Uso
 
 1.  **Seleccionar el simulador:**
-    * Utiliza el menú desplegable para seleccionar el tipo de simulador.
+    * ⬆️ Utiliza el menú desplegable para seleccionar el tipo de simulador.
 2.  **Cargar las preguntas:**
-    * Las preguntas del archivo CSV se cargarán automáticamente.
+    * 🔄 Las preguntas del archivo CSV se cargarán automáticamente.
 3.  **Añadir preguntas:**
     * ➕ Haz clic en "Añadir pregunta" para crear un nuevo bloque.
     * ✏️ Completa los campos de pregunta, respuesta correcta y respuestas incorrectas.
 4.  **Modificar preguntas:**
     * Edita los campos de las preguntas existentes.
 5.  **Eliminar preguntas:**
-    * ️ Utiliza el botón de eliminar en cada bloque.
+    * ️❌ Utiliza el botón de eliminar en cada bloque.
 6.  **Guardar y exportar:**
-    * Haz clic en "Crear" para guardar y exportar las preguntas en un ZIP.
+    * ✔️ Haz clic en "Crear" para guardar y exportar las preguntas en un ZIP.
 7.  **Mensajes de debug:**
-    * Presta atención a los mensajes en la parte inferior para ver el estado de las acciones.
+    * 🔔 Presta atención a los mensajes en la parte inferior para ver el estado de las acciones.
 
 ## 🤝 Contribución
 
-¡Nos encantaría recibir tus aportes! Para contribuir
+🌟 ¡Nos encantaría recibir tus aportes! Para contribuir 🌟
 
 ¡Las contribuciones son bienvenidas! Si deseas contribuir, sigue estos pasos:
 
@@ -72,10 +74,14 @@ Es una aplicación de escritorio desarrollada en **Java Swing** que permite carg
 4.   Sube los cambios: `git push origin tu-nombre-funcionalidad`
 5.   Crea un Pull Request hacia la rama `main`.
 
-✨¡Disfruta de tu experiencia! ✨🚀🎮
+✨¡Disfruta de tu experiencia! ✨
 
-## ‍ Autor
+## ‍✍️ Autor
 
- Sara Lucío.
+👤 Sara Lucío.
+
+## 🧑‍💻 Contacto
+
+## 🔗 https://github.com/Xara-cio
 
 
