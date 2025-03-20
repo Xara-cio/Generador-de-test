@@ -64,9 +64,7 @@ Utiliza un **Csv** como bbdd para mostrar cada una de las preguntas.
 
 ## 🤝 Contribución
 
-🌟 ¡Nos encantaría recibir tus aportes! Para contribuir 🌟
-
-¡Las contribuciones son bienvenidas! Si deseas contribuir, sigue estos pasos:
+🌟 ¡Nos encantaría recibir tus aportes! Para contribuir, sigue estos pasos: 🌟
 
 1.   Haz un fork del repositorio.
 2.   Crea una rama con tu nombre y la funcionalidad: `git checkout -b tu-nombre-funcionalidad`
