@@ -35,7 +35,7 @@ Una aplicación de escritorio desarrollada en **Java Swing** que permite cargar 
     * **Git** (opcional, para clonar el repositorio).
 2.  **Clonar el repositorio (opcional):**
     ```bash
-    git clone <URL_del_repositorio>
+    git clone https://github.com/tu-usuario/tu-repositorio.git
     ```
 3.  **Abrir el proyecto:**
     * Abre el proyecto en NetBeans o Eclipse.
@@ -62,6 +62,9 @@ Una aplicación de escritorio desarrollada en **Java Swing** que permite cargar 
 
 ##  Contribución
 
+🤝 Contribuciones
+¡Nos encantaría recibir tus aportes! Para contribuir
+
 ¡Las contribuciones son bienvenidas! Si deseas contribuir, sigue estos pasos:
 
 1.   Haz un fork del repositorio.
@@ -70,14 +73,10 @@ Una aplicación de escritorio desarrollada en **Java Swing** que permite cargar 
 4.   Sube los cambios: `git push origin tu-nombre-funcionalidad`
 5.   Crea un Pull Request hacia la rama `main`.
 
-##  Licencia
-
-[Indicar el tipo de licencia, por ejemplo: MIT License]
+✨¡Disfruta de tu experiencia! ✨🚀🎮
 
 ## ‍ Autor
 
-[Tu nombre o el nombre del equipo de desarrollo]
+ Sara Lucío.
 
-##  Contacto
 
-[Tu correo electrónico o un enlace a tu perfil de GitHub]
