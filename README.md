@@ -6,19 +6,19 @@ Es una aplicación de escritorio desarrollada en **Java Swing** que permite carg
 
 ✅ **Interfaz gráfica amigable** con componentes Swing.
 
- **Carga y modificación** de preguntas desde archivos CSV.
+⚡ **Carga y modificación** de preguntas desde archivos CSV.
  
- **Guardado y exportación** de preguntas en formato ZIP.
+💾 **Guardado y exportación** de preguntas en formato ZIP.
  
- **Actualización dinámica** de preguntas en la interfaz.
+🔄 **Actualización dinámica** de preguntas en la interfaz.
  
 ➕ **Añadir y eliminar** preguntas de forma sencilla.
 
 ℹ️ **Información desplegable** sobre la aplicación.
 
- **Mensajes de estado** claros y concisos (éxito, error, avisos).
+🚨 ⚠️ **Mensajes de estado** claros y concisos (éxito, error, avisos).
 
-## ️ Tecnologías utilizadas
+## 📚 ️Tecnologías utilizadas
 
 * ☕ **Java Swing** (para la interfaz gráfica)
 * **Java 8**
@@ -27,7 +27,7 @@ Es una aplicación de escritorio desarrollada en **Java Swing** que permite carg
 * **CSV** (como base de datos)
 * **Git** (para el control de versiones)
 
-##  Instalación
+## 📦 Instalación
 
 1.  **Requisitos previos:**
     * ☕ **Java Development Kit (JDK) 17** o superior.
@@ -42,7 +42,7 @@ Es una aplicación de escritorio desarrollada en **Java Swing** que permite carg
 4.  **Ejecutar la aplicación:**
     * ▶️ Ejecuta la clase `Main.java` para iniciar la aplicación.
 
-##  Uso
+##  🔧 Uso
 
 1.  **Seleccionar el simulador:**
     * Utiliza el menú desplegable para seleccionar el tipo de simulador.
@@ -60,9 +60,8 @@ Es una aplicación de escritorio desarrollada en **Java Swing** que permite carg
 7.  **Mensajes de debug:**
     * Presta atención a los mensajes en la parte inferior para ver el estado de las acciones.
 
-##  Contribución
+## 🤝 Contribución
 
-🤝 Contribuciones
 ¡Nos encantaría recibir tus aportes! Para contribuir
 
 ¡Las contribuciones son bienvenidas! Si deseas contribuir, sigue estos pasos:
