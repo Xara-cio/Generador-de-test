@@ -5,11 +5,17 @@ Una aplicación de escritorio desarrollada en **Java Swing** que permite cargar 
 ##  Características
 
 ✅ **Interfaz gráfica amigable** con componentes Swing.
+
  **Carga y modificación** de preguntas desde archivos CSV.
+ 
  **Guardado y exportación** de preguntas en formato ZIP.
+ 
  **Actualización dinámica** de preguntas en la interfaz.
+ 
 ➕ **Añadir y eliminar** preguntas de forma sencilla.
+
 ℹ️ **Información desplegable** sobre la aplicación.
+
  **Mensajes de estado** claros y concisos (éxito, error, avisos).
 
 ## ️ Tecnologías utilizadas
