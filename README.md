@@ -75,11 +75,9 @@ Utiliza un **Csv** como bbdd para mostrar cada una de las preguntas.
 ✨¡Disfruta de tu experiencia! ✨
 
 ## ‍✍️ Autor
-
 👤 Sara Lucío.
 
 ## 🧑‍💻 Contacto
-
 ## 🔗 https://github.com/Xara-cio
 
 
