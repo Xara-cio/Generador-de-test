@@ -1,6 +1,6 @@
-#  Generador de Test Teórico 
+#  📝 Generador de Test Teórico 
 
-Una aplicación de escritorio desarrollada en **Java Swing** que permite cargar y modificar preguntas tipo test desde un archivo CSV de forma sencilla e intuitiva. Permite guardar el archivo modificado y comprimirlo en formato ZIP, listo para ser utilizado en un proyecto de Unity.
+Es una aplicación de escritorio desarrollada en **Java Swing** que permite cargar y modificar preguntas tipo test desde un archivo CSV de forma sencilla e intuitiva. Permite guardar el archivo modificado y comprimirlo en formato ZIP, listo para ser utilizado en un proyecto de Unity. Utiliza un **Csv** como bbdd para mostrar en cada una de las preguntas.
 
 ##  Características
 
